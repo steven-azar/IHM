@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T17:17:36.027Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="YOwqe2jVdqZ3tBqpbnwY" version="14.3.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-10T17:29:08.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15" etag="JmNgebpzpoaDIBi5ih82" version="14.3.2" type="github" pages="4">
   <diagram name="Page-4" id="IaVsQ_I_NTn_HTGFBcEa">
     <mxGraphModel dx="2399" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1178,7 +1178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Q7PdIdejQ3w4Bc5Mc9u-2" value="&lt;b&gt;&lt;font color=&quot;#67ab9f&quot;&gt;rdf:type&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="wPTKJEdPMzPVCPXyaWyH-1">
-          <mxGeometry x="-870" y="660" width="60" height="20" as="geometry" />
+          <mxGeometry x="-850" y="630" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5Q7PdIdejQ3w4Bc5Mc9u-3" value="" style="endArrow=classic;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.658;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="5Q7PdIdejQ3w4Bc5Mc9u-7" target="5Q7PdIdejQ3w4Bc5Mc9u-0" parent="wPTKJEdPMzPVCPXyaWyH-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1230,10 +1230,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Q7PdIdejQ3w4Bc5Mc9u-14" value="&lt;b&gt;jeux :&lt;br&gt;&lt;/b&gt;&lt;b&gt;developpé_par&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="wPTKJEdPMzPVCPXyaWyH-1">
-          <mxGeometry x="-500" y="775" width="100" height="30" as="geometry" />
+          <mxGeometry x="-500" y="790" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Q7PdIdejQ3w4Bc5Mc9u-15" value="&lt;b&gt;jeux&lt;/b&gt;&lt;b&gt;&amp;nbsp;:&lt;br&gt;&lt;/b&gt;&lt;b&gt;&amp;nbsp;annee_de_sortie&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="wPTKJEdPMzPVCPXyaWyH-1">
-          <mxGeometry x="-305" y="780" width="110" height="30" as="geometry" />
+          <mxGeometry x="-300" y="840" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Q7PdIdejQ3w4Bc5Mc9u-16" value="&quot;EA_Sports&quot;@en" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wPTKJEdPMzPVCPXyaWyH-1">
           <mxGeometry x="-485" y="950" width="110" height="60" as="geometry" />
