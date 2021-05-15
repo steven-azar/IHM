@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-15T17:02:37.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="e-eH1Mz8_htobwpi8_4i" version="14.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-05-15T20:11:01.652Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="KUdstUO8gbsJbUAh3A7C" version="14.3.1" type="github" pages="4">
   <diagram name="Page-4" id="IaVsQ_I_NTn_HTGFBcEa">
     <mxGraphModel dx="2293" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1217,9 +1217,6 @@
               <mxPoint x="610" y="785" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="R0GpvjhGyUpJORnFzL1_-98" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="R0GpvjhGyUpJORnFzL1_-96">
-          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R0GpvjhGyUpJORnFzL1_-99" value="ajouterJeuxSimuAnimalEtCie();" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;" vertex="1" parent="R0GpvjhGyUpJORnFzL1_-1">
           <mxGeometry x="460" y="630" width="170" height="20" as="geometry" />
