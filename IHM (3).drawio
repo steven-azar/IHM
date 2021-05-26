@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T17:16:30.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="HEAvFrR0WeqRRhg4eWJ-" version="14.7.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-26T17:57:44.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="_ZDlQi0ScdMQAh9-QgHd" version="14.7.0" type="github" pages="5">
   <diagram name="Page-4" id="IaVsQ_I_NTn_HTGFBcEa">
     <mxGraphModel dx="1853" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1329,7 +1329,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FvqUvOurnM14Syp8Oo2K" name="Page-7">
-    <mxGraphModel dx="1853" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1613" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Oc5YhEr30fAH6tRwN1vC-0" />
         <mxCell id="Oc5YhEr30fAH6tRwN1vC-1" parent="Oc5YhEr30fAH6tRwN1vC-0" />
@@ -1385,7 +1385,7 @@
         <mxCell id="CRaPpODP5tAE2EbzIU5K-17" value="&lt;b&gt;&lt;i&gt;jeux&lt;/i&gt;&lt;/b&gt; : 2KSPORTS" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Oc5YhEr30fAH6tRwN1vC-1" vertex="1">
           <mxGeometry x="140" y="600" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CRaPpODP5tAE2EbzIU5K-18" value="" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Oc5YhEr30fAH6tRwN1vC-1" vertex="1">
+        <mxCell id="CRaPpODP5tAE2EbzIU5K-18" value="&lt;b&gt;jeux&lt;/b&gt; : Jeu_de_sport" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Oc5YhEr30fAH6tRwN1vC-1" vertex="1">
           <mxGeometry x="550" y="600" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CRaPpODP5tAE2EbzIU5K-19" value="" style="endArrow=classic;html=1;fontSize=13;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="Oc5YhEr30fAH6tRwN1vC-1" source="CRaPpODP5tAE2EbzIU5K-18" target="CRaPpODP5tAE2EbzIU5K-8" edge="1">
